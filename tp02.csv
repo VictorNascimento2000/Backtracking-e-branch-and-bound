@@ -1,0 +1,21 @@
+nome do arquivo;nome do aluno;tempo de execucao;valor retornado;implementacao usada
+f1_l-d_kp_10_269;Victor Hugo Lima do Nascimento;0.001717;295;backtracking
+f1_l-d_kp_10_269;Victor Hugo Lima do Nascimento;0.001061;295;branch and bound
+f2_l-d_kp_20_878;Victor Hugo Lima do Nascimento;1.974901;1024;backtracking
+f2_l-d_kp_20_878;Victor Hugo Lima do Nascimento;0.025564;1024;branch and bound
+f3_l-d_kp_4_20;Victor Hugo Lima do Nascimento;0.000497;35;backtracking
+f3_l-d_kp_4_20;Victor Hugo Lima do Nascimento;0.000620;35;branch and bound
+f4_l-d_kp_4_11;Victor Hugo Lima do Nascimento;0.000685;23;backtracking
+f4_l-d_kp_4_11;Victor Hugo Lima do Nascimento;0.000631;23;branch and bound
+f5_l-d_kp_15_375;Victor Hugo Lima do Nascimento;0.038869;481.069368;backtracking
+f5_l-d_kp_15_375;Victor Hugo Lima do Nascimento;0.001014;481.069368;branch and bound
+f6_l-d_kp_10_60;Victor Hugo Lima do Nascimento;0.001953;52;backtracking
+f6_l-d_kp_10_60;Victor Hugo Lima do Nascimento;0.002315;52;branch and bound
+f7_l-d_kp_7_50;Victor Hugo Lima do Nascimento;0.001074;107;backtracking
+f7_l-d_kp_7_50;Victor Hugo Lima do Nascimento;0.000704;107;branch and bound
+f8_l-d_kp_23_10000;Victor Hugo Lima do Nascimento;9.844502;9767;backtracking
+f8_l-d_kp_23_10000;Victor Hugo Lima do Nascimento;45.820839;9767;branch and bound
+f9_l-d_kp_5_80;Victor Hugo Lima do Nascimento;0.000624;130;backtracking
+f9_l-d_kp_5_80;Victor Hugo Lima do Nascimento;0.000830;130;branch and bound
+f10_l-d_kp_20_879;Victor Hugo Lima do Nascimento;1.990571;1025;backtracking
+f10_l-d_kp_20_879;Victor Hugo Lima do Nascimento;0.025725;1025;branch and bound
